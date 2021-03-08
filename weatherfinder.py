@@ -9,7 +9,7 @@ def test(entry):
 
 #weatherstack password
 #*******
-# API acesss key
+# API acesss key (key changes every 3 months and the free version only can pull 100 requests)
 # c7136ca6c9cf56b61c94480ec83418fa
 #url http://api.weatherstack.com/
 def response(api_response):
