@@ -4,7 +4,7 @@
 
 
 <h2>Goal</h2>
-The goal of this project is to create an application simialr to the weather app in our phones.
+The goal of this project is to create an application similar to the weather app in our phones.
 
 <h2>How it works</h2>
 The user inputs a city, zip code, state, or country and with the help of the API the app displays the current weather in the entered area 
