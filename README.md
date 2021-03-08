@@ -12,7 +12,7 @@ The user inputs a city, zip code, state, or country and with the help of the API
 <h2>Resources</h2>
 <ul>
   <li><a href="https://www.python.org/downloads/release/python-370/">Python </a></li>
-  <li><a href=" https://weatherstack.com/">Weatherstack</a></li>
+  <li><a href="https://weatherstack.com">Weatherstack</a></li>
  
 </ul>  
 
