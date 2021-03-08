@@ -8,7 +8,7 @@ def test(entry):
     return entry
 
 #weatherstack password
-#Nyit123!
+#*******
 # API acesss key
 # c7136ca6c9cf56b61c94480ec83418fa
 #url http://api.weatherstack.com/
