@@ -1,9 +1,10 @@
+#request key is invalid. an account has to be made to obtain a new access key. 
+# sign up to http://api.weatherstack.com to obtain the 
 import requests
 params = {
 'access_key': 'c7136ca6c9cf56b61c94480ec83418fa',
 'query': 'New York',
 'units': 'f'
-
 
 }
 
